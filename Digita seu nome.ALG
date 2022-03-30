@@ -26,6 +26,8 @@ idade <- ano_at - ano_nc
 escreva ("Voce se chama ",nome)
 escreva(" e sua idade e", idade)
 
+https://www.youtube.com/watch?v=EGmzAs1G0z0
+
 
 Fimalgoritmo
 
