@@ -15,7 +15,7 @@ Inicio
 escreval("Digite seu nome")
 leia (nome)
 
-escreval("Digite o ano do seu nascimento")
+escreval("Digite o ano do seu nascimento ")
 leia (ano_nc)
 
 escreval("Digite o ano atual")
