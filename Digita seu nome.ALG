@@ -1,4 +1,4 @@
-Algoritmo "Digite seu nome"
+Algoritmo "Digite seu nome "
 // Disciplina   : [Linguagem e Lógica de Programação]
 // PROFESSOR : HILDER AMARAL 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
