@@ -2,7 +2,7 @@ Algoritmo "Digite seu nome"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // PROFESSOR : HILDER AMARAL 
 // Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Rômulo Castro
+// Autor(a)    : Rômulo Castro de Oliveira
 // Data atual  : 29/03/2022
 Var
 // Seção de Declarações das variáveis 
