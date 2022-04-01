@@ -1,21 +1,21 @@
 Algoritmo "exe2_voto"
-// Disciplina : [Linguagem e Lógica de Programação]
+// Disciplina : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor : Hiram Amaral
-// Descrição : Aqui você descreve o que o programa faz! (função)
-// Autor(a): alunocetam22
+// DescriÃ§Ã£o : Aqui vocÃª descreve o que o programa faz! (funÃ§Ã£o)
+// Autor(a): RÃ´mulo Castro de Oliveira
 // Dados atuais: 25/03/2022
 // 0-15 nao vota
 // 16-17 votos opcional
-// 18-69 voto obrigatório
+// 18-69 voto obrigatÃ³rio
 // 70... voto opcional
 Var
-// Seção de Declarações das Variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das VariÃ¡veis
    idade: inteiro
 
 
 
 Inicio
-// Seção de Comandos, procedimentos, funções, operadores, etc...
+// SeÃ§Ã£o de Comandos, procedimentos, funÃ§Ãµes, operadores, etc...
     escreva("Seja bem vindo(a), digite sua idade: ")
     leia(idade)
 
@@ -23,9 +23,9 @@ Inicio
        escreva("Voce ainda nao tem idade para execer a cidadania")
        senao
        se (idade >=16) e (idade < 18) ou (idade >=70) entao
-       escreva("Sem problema ainda é o seu opcional.")
+       escreva("Sem problema ainda Ã© o seu opcional.")
        senao
-       escreva("Que otimo o seu voto é obrigatorio!")
+       escreva("Que otimo o seu voto Ã© obrigatorio!")
        fimse
        fimse
 
